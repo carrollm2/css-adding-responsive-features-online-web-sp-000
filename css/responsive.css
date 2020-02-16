@@ -72,14 +72,6 @@
 
   @media only screen and (max-width: 700px) {
 
-    #logo {
-      padding: 60px 0 0;
-    }
-
-    #social {
-      top: 60px;
-    }
-
     #navbar nav a {
      display: none;
     }
